@@ -21,7 +21,7 @@ pip install Pillow
 
 ## Instructions
 
-Make sure you have python 3.xx
+Make sure you have Python 3
 ```python
 python emojiconverter.py
 ```

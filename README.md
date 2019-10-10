@@ -19,4 +19,10 @@ Install Pillow (PIL fork)
 pip install Pillow
 ```
 
+## Instructions
+
+Make sure you have python 3.xx
+```python
+python emojiconverter.py
+```
 
